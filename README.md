@@ -1,2 +1,4 @@
 # gang0797_9103_04
-blablabla
+My first repository for IDEA9103!!! 
+yay 
+
