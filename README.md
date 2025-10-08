@@ -3,13 +3,23 @@
 # Part 1: Imaging Technique Inspiration
 
 I found inspiration in how **Claude Monet** used to paint the same views and landscapes at different times of the day because he was fascinated by the subtle colour transitions and studies of light.  
+
 We can see this technique represented in Monet’s *Rouen Cathedral* series and also in his *Haystacks* series, for example.  
 
 I’d like to explore **time-based animation** where my artwork’s atmosphere changes gradually, mimicking the passing of time.  
 I could animate colours in the artwork to shift slowly, as if day turns to night, for example.  
 
+**Rouen Cathedral Series**
 
-# 💻 Part 2: Coding Technique Exploration
+![Rouen Cathedral by Monet](images/monet_cathedral.png "Rouen Cathedral Series")
+
+
+**Haystacks Series**
+
+![Haystacks by Monet](images/monet_haystacks.jpg "Haystacks Series")
+
+
+# Part 2: Coding Technique Exploration
 
 I could use a **time-based parameter** to smoothly change colours or other properties over a cycle.
 
