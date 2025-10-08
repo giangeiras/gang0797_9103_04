@@ -2,7 +2,7 @@
 
 # Part 1: Imaging Technique Inspiration
 
-I found inspiration in how **Claude Monet** used to paint the same views and landscapes at different times of the day because he was fascinated by the subtle colour transitions and studies of light.  
+I found inspiration in how **Claude Monet** used to create many paintings of the same views and landscapes at different times of the day because he was fascinated by the subtle colour transitions and studies of light.  
 
 We can see this technique represented in Monet’s *Rouen Cathedral* series and also in his *Haystacks* series, for example.  
 
